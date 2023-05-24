@@ -1,0 +1,471 @@
+[12:04:41] [main/INFO]: ModLauncher running: args [--username, Thefive6000, --version, forge-43.2.11, --gameDir, C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8, --assetsDir, C:\Users\rodne\curseforge\minecraft\Install\assets, --assetIndex, 1.19, --uuid, 7baf8bd85d4c4346959857ab2d61ab58, --accessToken, ????????, --clientId, MGVlMWU3OWQtMmMyMS00NTI3LTk4MzgtMzdkZWY1YjEwNjdl, --xuid, 2535436768420705, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.11, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[12:04:41] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[12:04:44] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/rodne/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2397!/ Service=ModLauncher Env=CLIENT
+[12:04:45] [main/INFO]: Found mod file [1.19.2] SecurityCraft v1.9.6.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file absentbydesign-1.19-1.7.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Ad-Astra-Giselle-Addon-forge-1.19.2-1.15.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ad_astra-forge-1.19.2-1.12.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file additional_lights-1.19-2.1.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AdditionalEnchantedMiner-1.19.2-1192.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file additionallanterns-1.0.4-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file adtetra-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AdvancedPeripherals-0.7.27r.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AdvancementPlaques-1.19.2-1.4.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file advgenerators-1.4.0.5-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AE2-Things-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AE2WTLib-12.8.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AEAdditions-1.19.2-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AEInfinityBooster-1.19.2-1.2.0+11.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AIOTBotania-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file alchemistry-1.19.2-2.3.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file alchemylib-1.19.2-1.0.21.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AllTheCompressed-1.19.2-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file allthemodium-2.1.6-1.19.2-43.1.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file alltheores-2.0.2-1.19.2-43.1.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file allthetweaks-2.0.4-1.19.2-43.1.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file almostunified-forge-1.19.2-0.4.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AngelRing2-1.19.2-2.1.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file antighost-1.19.1-forge42.0.1-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Apotheosis-1.19.2-6.1.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Applied-Botanics-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Applied-Mekanistics-1.3.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file appliedcooking-2.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file appliedenergistics2-forge-12.9.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Aquaculture-1.19.2-2.4.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file architectury-6.5.82-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ars_creo-1.19.2-3.1.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ars_elemental-1.19.2-0.5.9.0.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ars_nouveau-1.19.2-3.13.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file arsarmiger-1.19.2-1.4.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file artifacts-1.19.2-5.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file asynclocator-1.19.2-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AttributeFix-Forge-1.19.2-17.2.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file AutoRegLib-1.8.2-55.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file balm-forge-1.19.2-4.5.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file BambooEverything-forge-2.2.4-build.33+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file baubley-heart-canisters-1.19.2-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file bdlib-1.25.0.5-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file BetterAdvancements-1.19.2-0.2.2.142.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file BetterF3-4.0.0-Forge-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file biggerreactors-1.19.2-0.6.0-beta.6.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file blockui-1.19-0.0.69-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file blue_skies-1.19.2-1.3.20.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file blueflame-1.19.2-0.1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Bookshelf-Forge-1.19.2-16.2.18.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Botania-1.19.2-439-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file BotanyPots-Forge-1.19.2-9.0.33.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file BotanyTrees-Forge-1.19.2-5.0.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file botarium-forge-1.19.2-1.8.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file buildinggadgets-3.16.2-build.22+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file bwncr-forge-1.19.2-3.14.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file cabletiers-1.19.2-0.5471.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file caelus-forge-1.19.2-3.0.0.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file cc-tweaked-1.19.2-1.101.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file cfm-7.0.0-pre35-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file charginggadgets-1.9.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file charmofundying-forge-6.2.0+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file chemlib-1.19.2-2.0.17.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file chipped-forge-1.19.2-2.1.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file clickadv-1.19.2-3.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file cloth-config-8.2.88-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Clumps-forge-1.19.2-9.0.0+14.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file cofh_core-1.19.2-10.2.1.40.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file comforts-forge-6.0.5+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file CommonCapabilities-1.19.2-2.9.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file compactmachines-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file configured-2.1.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file connectedglass-1.1.6-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file connectivity-1.19.2-4.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file constructionwand-1.19.2-2.10.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file cookingforblockheads-forge-1.19.2-13.3.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file corail_woodcutter-1.19.2-2.5.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file CorgiLib-forge-1.19.2-1.0.0.33.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file CosmeticArmorReworked-1.19.2-v1a.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file crafting-on-a-stick-1.19.2-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file craftingtweaks-forge-1.19.2-15.1.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file crashutilities-6.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file create-1.19.2-0.5.0.i.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file createaddition-1.19.2-20230507a.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file creeperoverhaul-2.0.9-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Croptopia-1.19.2-FORGE-2.2.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file CTM-1.19.2-1.1.6+8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ctov-3.2.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Cucumber-1.19.2-6.0.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.4.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file CyclopsCore-1.19.2-1.18.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file dankstorage-1.19.2-5.1.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file DarkModeEverywhere-1.19.2-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file DarkUtilities-Forge-1.19.2-13.1.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file deeperdarker-forge-1.1.6-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file deepresonance-1.19-4.1.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file DefaultSettings-1.19.2-4.0.5-Forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Delightful-1.19.2-3.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file DimStorage-1.19.2-7.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file dpanvil-1.19.2-4.4.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file dummmmmmy-1.19.2-1.7.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file DungeonCrawl-1.19-2.3.12.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file DungeonsArise-1.19.2-2.1.55-beta.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file eccentrictome-1.19.2-1.10.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file EdivadLib-1.19.2-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file elementalcraft-1.19.2-5.8.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file elevatorid-1.19.2-1.8.9.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file elytraslot-forge-6.1.1+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file enderchests-forge-1.19.0-1.10.1.01.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file endertanks-forge-1.19.0-1.12.1.02.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file energymeter-1.19.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file engineersdecor-1.19.2-forge-1.3.28.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ensorcellation-1.19.2-4.2.0.14.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file entangled-1.3.13-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Entity_Collision_FPS_Fix-forge-1.19-2.0.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file entityculling-forge-1.6.1-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file EvilCraft-1.19.2-1.2.21.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ExperienceBugFix-1.19-1.41.2.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ExtraDisks-1.19.2-2.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ExtraStorage-1.19.2-3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file extremesoundmuffler-3.37-forge-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file FarmersDelight-1.19-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file farmingforblockheads-forge-1.19.2-11.3.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file farsight-1.19.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file FastFurnace-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file FastLeafDecay-30.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file FastSuite-1.19.2-4.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file FastWorkbench-1.19.2-7.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ferritecore-5.0.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file findme-3.1.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file flickerfix-1.19.1-3.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file FluxNetworks-1.19.2-7.1.2.11.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file FramedBlocks-6.8.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-chunks-forge-1902.3.21-build.266.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-essentials-1902.1.10-build.47.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-industrial-contraptions-1900.1.7-build.212.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-library-forge-1902.3.19-build.214.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-quests-forge-1902.4.15-build.228.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-ranks-forge-1902.1.15-build.77.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-teams-forge-1902.2.13-build.100.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ftb-ultimine-forge-1902.4.0-build.77.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file fuelgoeshere-1.19.2-0.1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file functionalstorage-1.19.2-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file GameMenuModOption-1.19-1.18.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file GatewaysToEternity-1.19.2-3.1.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.40.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file getittogetherdrops-forge-1.19.2-1.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file glassential-forge-1.19-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file GravitationalModulatingAdditionalUnit-1.19.2-2.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file handcrafted-forge-1.19.2-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file harvestwithease-1.19.2-6.0.1.2-final-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file HealthOverlay-1.19.2-7.2.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file hexal-forge-1.19.2-0.2.14.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file hexcasting-forge-1.19.2-0.10.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file hexerei-0.3.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file HostileNeuralNetworks-1.19.2-4.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Iceberg-1.19.2-forge-1.1.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ImmersiveEngineering-1.19.2-9.2.2-165.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file industrial-foregoing-1.19.2-3.3.2.3-5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file IntegratedCrafting-1.19.2-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file IntegratedDynamics-1.19.2-1.16.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file integratednbt-1.19.2-1.6.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file IntegratedTerminals-1.19.2-1.4.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file IntegratedTunnels-1.19.2-1.8.18.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file inventoryessentials-forge-1.19-5.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file InventoryProfilesNext-forge-1.19-1.10.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ironfurnaces-1.19.2-3.6.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file IronJetpacks-1.19.2-6.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file item-filters-forge-1902.2.9-build.46.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file itemcollectors-1.1.7-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file jei-1.19.2-forge-11.6.0.1015.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file jmi-forge-1.19.2-0.13-33.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file journeymap-1.19.2-5.9.7-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file jumpboat-1.19-0.1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.19.2-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.2.2.200.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file kotlinforforge-3.12.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file kubejs-forge-1902.6.0-build.142.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file laserio-1.5.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file lazydfu-1.19-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file LegendaryTooltips-1.19.2-forge-1.4.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file letmedespawn-1.18.x-1.19.x-forge-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file libIPN-forge-1.19-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file LibX-1.19.2-4.2.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file littlecontraptions-forge-1.19.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file littlelogistics-mc1.19.2-v1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file lootr-1.19-0.4.23.60.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mahoutsukai-1.19.2-v1.34.44.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mcjtylib-1.19-7.2.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mcw-bridges-2.0.7-mc1.19.2forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mcw-doors-1.0.9forge-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mcw-fences-1.0.7-mc1.19.2forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mcw-lights-1.0.5-mc1.19.2forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mcw-roofs-2.2.3-mc1.19.2forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mcw-trapdoors-1.1.0-mc1.19.2forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Measurements-forge-1.19.2-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file megacells-forge-2.0.0-beta.9-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Mekanism-1.19.2-10.3.8.477.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MekanismGenerators-1.19.2-10.3.8.477.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MekanismTools-1.19.2-10.3.8.477.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file merequester-1.19.2-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file minecolonies-1.19.2-1.0.1391-BETA.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mininggadgets-1.13.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mob_grinding_utils-1.19.2-0.4.49.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file modelfix-1.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file modernfix-mc1.19.2-forge-3.6.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file modnametooltip-1.19-1.19.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file modonomicon-1.19.2-1.30.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file modular-routers-1.19.2-10.2.0-3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file moonlight-1.19.2-2.2.34-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file moredragoneggs-3.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file moreoverlays-1.21.5-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Morph-o-Tool-1.6-34.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file multipiston-1.19.2-1.2.21-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file mutil-1.19.2-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file myrtrees-forge-1.2.0-build.31.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MyServerIsCompatible-1.19-1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MysticalAgradditions-1.19.2-6.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MysticalAgriculture-1.19.2-6.0.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MysticalCustomization-1.19.2-4.0.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file MythicBotany-1.19.2-3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file naturalist-forge-3.0.3-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file NaturesAura-38.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file NaturesCompass-1.19.2-1.10.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file netherportalfix-forge-1.19-10.0.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file NoChatReports-FORGE-1.19.2-v1.5.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file nomowanderer-1.19.2_1.3.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file observable-3.3.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file occultism-1.19.2-1.78.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file oculus-mc1.19.2-1.2.8a.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file PackMenu-1.19.2-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Patchouli-1.19.2-77.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file paucal-forge-1.19.2-0.5.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file phosphophyllite-1.19.2-0.6.0-beta.7.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file PigPen-Forge-1.19.2-11.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file pipez-1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Placebo-1.19.2-7.1.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file platforms-1.19-1.10.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file pneumaticcraft-repressurized-1.19.2-4.3.4-24.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file polymorph-forge-0.46.1+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ponderjs-1.19.2-1.1.11.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file potionsmaster-0.6.0-1.19.2-43.1.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Powah-4.0.10.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Prism-1.19.1-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file productivebees-1.19.2-0.10.7.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file pylons-1.19.2-3.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Quark-3.4-400.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file quartz-1.19.2-0.1.0-beta.2.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file radon-0.8.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rangedpumps-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ReAuth-1.19-Forge-4.0.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rebornstorage-1.19.2-5.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rechiseled-1.0.13-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file redstone_arsenal-1.19.2-7.2.0.15.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file refinedcooking-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file refinedstorage-1.11.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file refinedstorageaddons-0.9.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file reliquary-1.19.2-2.0.20.1166.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file repurposed_structures_forge-6.3.24+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file resourcefulconfig-forge-1.19.2-1.0.20.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file resourcefullib-forge-1.19.2-1.1.24.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rftoolsbase-1.19-4.1.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rftoolsbuilder-1.19-5.2.8.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rftoolscontrol-1.19-6.1.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rftoolspower-1.19-5.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rftoolsstorage-1.19-4.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rftoolsutility-1.19-5.1.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rhino-forge-1902.2.2-build.268.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file RootsClassic-1.19.2-1.1.35.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file RSInfinityBooster-1.19.2-3.0+27.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rsrequestify-2.3.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file rubidium-0.6.2a.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Runelic-Forge-1.19.2-14.1.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file SandBox-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file saturn-mc1.19.2-0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ScalableCatsForce-2.13.10-build-10-with-library.jar of type LANGPROVIDER with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file sebastrnlib-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file shetiphiancore-forge-1.19.0-3.11.3.01.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Shrink-1.19-1.3.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file silent-gear-1.19.2-3.2.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file silent-lib-1.19.2-7.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file SimpleBackups-1.19.1-2.1.9.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file simplemagnets-1.1.9-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file simplylight-1.19.2-1.4.5-build.42.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file SmartBrainLib-forge-1.19.2-1.9.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file SoL-Carrot-1.19.2-1.14.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file sophisticatedbackpacks-1.19.2-3.18.45.819.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file sophisticatedcore-1.19.2-0.5.54.261.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file sophisticatedstorage-1.19.2-0.7.8.366.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file spark-1.10.37-forge.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file spirit-forge-1.19.2-2.2.6.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file SpitItOut-1.19.4-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file Steam_Rails-1.2.6+forge-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file structure_gel-1.19.2-2.7.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file StructureCompass-1.19.2-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file structurize-1.19.2-1.0.491-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file SuperFactoryManager-1.19.2-4.10.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file supermartijn642configlib-1.1.6b-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file supermartijn642corelib-1.1.9-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file supplementaries-1.19.2-2.3.10.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file systeams-1.19.2-1.3.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file tempad-forge-1.19.2-1.4.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file TerraBlender-forge-1.19.2-2.0.1.136.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file tesseract-1.0.34-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file tetra-1.19.2-5.2.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file tetranomicon-1.4.2-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file tetrasdelight-1.19.2-1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file theoneprobe-1.19-6.2.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file thermal_cultivation-1.19.2-10.2.0.17.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file thermal_dynamics-1.19.2-10.2.1b.14.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file thermal_expansion-1.19.2-10.2.0.21.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file thermal_foundation-1.19.2-10.2.0.47.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file thermal_innovation-1.19.2-10.2.0.18.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file thermal_integration-1.19.2-10.2.0.17.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file thermal_locomotion-1.19.2-10.2.0.14.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ThermalExtra 1.19.2-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file theurgy-1.19.2-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file time-in-a-bottle-3.0.1-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file titanium-1.19.2-3.7.3-27.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ToastControl-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file tombstone-8.2.9-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file ToolBelt-1.19.2-1.19.7.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file torchmaster-19.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file trashcans-1.0.17a-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file trashslot-forge-1.19-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file TravelAnchors-1.19.2-4.1.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file twilightforest-1.19.2-4.2.1518-universal.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file universalgrid-1.19.2-1.033.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file UtilitiX-1.19.2-0.7.9.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file villagertools-1.19-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file vitalize-forge-1.19.2-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file voidtotem-forge-1.19.2-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file waystones-forge-1.19.2-11.4.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file wirelesschargers-1.0.8-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file WitherSkeletonTweaks-1.19.2-8.0.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file xnet-1.19-5.1.4.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file xnetgases-1.19.2-4.0.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file XyCraft Core-0.5.17.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file XyCraft Override-0.5.17.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file XyCraft World-0.5.17.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsApi-1.19.2-Forge-3.8.9.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsBetterDungeons-1.19.2-Forge-3.2.2.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/INFO]: Found mod file YungsExtras-1.19.2-Forge-3.1.0.jar of type MOD with provider {mods folder locator at C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods}
+[12:04:45] [main/WARN]: Mod file C:\Users\rodne\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.11\fmlcore-1.19.2-43.2.11.jar is missing mods.toml file
+[12:04:45] [main/WARN]: Mod file C:\Users\rodne\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.11\javafmllanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[12:04:45] [main/WARN]: Mod file C:\Users\rodne\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.11\lowcodelanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[12:04:45] [main/WARN]: Mod file C:\Users\rodne\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.11\mclanguage-1.19.2-43.2.11.jar is missing mods.toml file
+[12:04:45] [main/INFO]: Found mod file fmlcore-1.19.2-43.2.11.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1eb2d371
+[12:04:45] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.2.11.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1eb2d371
+[12:04:45] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.2.11.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1eb2d371
+[12:04:45] [main/INFO]: Found mod file mclanguage-1.19.2-43.2.11.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1eb2d371
+[12:04:45] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1eb2d371
+[12:04:45] [main/INFO]: Found mod file forge-1.19.2-43.2.11-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@1eb2d371
+[12:04:46] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods\resourcefullib-forge-1.19.2-1.1.24.jar
+[12:04:46] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: botarium. Using Mod File: C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8\mods\botarium-forge-1.19.2-1.8.2.jar
+[12:04:46] [main/INFO]: Found 19 dependencies adding them to mods collection
+[12:04:46] [main/INFO]: Found mod file cats-kernel_2.13-2.8.5-kotori.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file jankson-1.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file kfflang-3.12.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file spectrelib-forge-0.12.4+1.19.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file cats-core_2.13-2.8.5-kotori.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file paragon-forge-3.0.2-1.19x.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file toml4j-0.7.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file MixinExtras-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file kffmod-3.12.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file scala-library-2.13.10.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file caffeine-3.1.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.8.a-14.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file kfflib-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file expandability-forge-7.0.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file thermal_core-1.19.2-10.2.0.5.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file cats-free_2.13-2.8.5-kotori.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:46] [main/INFO]: Found mod file snakeyaml-1.27.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@10afe71a
+[12:04:53] [main/INFO]: Compatibility level set to JAVA_17
+[12:04:53] [main/ERROR]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[12:04:53] [main/ERROR]: Mixin config radon.mixins.json does not specify "minVersion" property
+[12:04:53] [main/ERROR]: Mixin config myrtrees-common.mixins.json does not specify "minVersion" property
+[12:04:53] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[12:04:53] [main/INFO]: Successfully loaded Mixin Connector [com.aizistral.nochatreports.MixinConnector]
+[12:04:53] [main/INFO]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[12:04:53] [main/INFO]: Successfully loaded Mixin Connector [shetiphian.endertanks.mixins.MixinConnector]
+[12:04:53] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.2.11, --gameDir, C:\Users\rodne\curseforge\minecraft\Instances\All the Mods 8 - ATM8, --assetsDir, C:\Users\rodne\curseforge\minecraft\Install\assets, --uuid, 7baf8bd85d4c4346959857ab2d61ab58, --username, Thefive6000, --assetIndex, 1.19, --accessToken, ????????, --clientId, MGVlMWU3OWQtMmMyMS00NTI3LTk4MzgtMzdkZWY1YjEwNjdl, --xuid, 2535436768420705, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[12:04:53] [main/INFO]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[12:04:53] [main/INFO]: Loaded configuration file for ModernFix: 54 options available, 0 override(s) found
+[12:04:53] [main/INFO]: Applying Nashorn fix
+[12:04:53] [main/WARN]: Reference map 'universalgrid.refmap.json' for universalgrid.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:04:53] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:04:53] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:04:53] [main/WARN]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:04:53] [main/WARN]: Reference map 'myrtrees-common-refmap.json' for myrtrees-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:04:54] [main/WARN]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:04:54] [main/WARN]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:04:54] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:04:54] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:04:54] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:04:54] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:04:54] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[12:04:55] [main/INFO]: Patching FishingHook#catchingFish
+[12:04:55] [main/WARN]: Inventory Profiles Next: Doing our own dependency resolving! Because Forge is being Forge....: https://github.com/MinecraftForge/MinecraftForge/issues/9088
+[12:04:55] [main/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[12:04:55] [main/INFO]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[12:04:55] [main/INFO]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[12:04:55] [main/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[12:04:55] [main/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[12:04:55] [main/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[12:04:57] [main/WARN]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.MinecraftMixin->@Redirect::securitycraft$preventCameraSwitching(Lnet/minecraft/client/Options;Lnet/minecraft/client/CameraType;)V with priority 1100, already redirected by ars_nouveau.mixins.json:camera.MinecraftMixin->@Redirect::handleKeybinds(Lnet/minecraft/client/Options;Lnet/minecraft/client/CameraType;)V with priority 1100
+[12:04:57] [main/INFO]: Mixing server.MixinPlayer from nochatreports.mixins.json into net.minecraft.world.entity.player.Player
+[12:04:57] [main/INFO]: Mixing client.MixinLocalPlayer from nochatreports.mixins.json into net.minecraft.client.player.LocalPlayer
+[12:04:57] [main/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Z)V
+[12:04:57] [main/INFO]:   BeforeConstant found INTEGER constant: value = 0, intValue = null
+[12:04:57] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[12:04:57] [main/INFO]:       BeforeConstant found Insn [ICONST_0] 
+[12:04:57] [main/INFO]:   BeforeConstant found INTEGER constant: value = 60, intValue = null
+[12:04:57] [main/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[12:04:57] [main/INFO]:       BeforeConstant found IntInsn 60
+[12:04:57] [main/INFO]: Mixing client.MixinTitleScreen from nochatreports.mixins.json into net.minecraft.client.gui.screens.TitleScreen
+[12:04:57] [main/INFO]: Mixing client.MixinChatScreen from nochatreports.mixins.json into net.minecraft.client.gui.screens.ChatScreen
+[12:04:57] [main/INFO]: Renaming synthetic method lambda$onInit$4(Lnet/minecraft/client/gui/components/Button;Lcom/mojang/blaze3d/vertex/PoseStack;II)V to mdef2327$lambda$onInit$4$0 in nochatreports.mixins.json:client.MixinChatScreen
+[12:04:57] [main/INFO]: Renaming synthetic method lambda$onInit$3(Lnet/minecraft/client/gui/components/Button;)V to mdef2327$lambda$onInit$3$1 in nochatreports.mixins.json:client.MixinChatScreen
+[12:04:57] [main/INFO]: Renaming synthetic method lambda$onInit$2(Lcom/aizistral/nochatreports/core/ServerSafetyLevel;Lnet/minecraft/client/gui/components/Button;Lcom/mojang/blaze3d/vertex/PoseStack;II)V to mdef2327$lambda$onInit$2$2 in nochatreports.mixins.json:client.MixinChatScreen
+[12:04:57] [main/INFO]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/client/gui/components/Button;)V to mdef2327$lambda$onInit$1$3 in nochatreports.mixins.json:client.MixinChatScreen
+[12:04:57] [main/INFO]: Renaming synthetic method lambda$onBeforeMessage$0(Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lcom/aizistral/nochatreports/encryption/Encryptor;)V to mdef2327$lambda$onBeforeMessage$0$4 in nochatreports.mixins.json:client.MixinChatScreen
+[12:04:57] [pool-3-thread-1/INFO]: ModernFix bootstrap
+[12:04:58] [pool-3-thread-1/INFO]: Vanilla bootstrap took 734 milliseconds
+[12:04:58] [pool-3-thread-1/INFO]: Replaced 5 calls to Enchantment#getMaxLevel() in vazkii/quark/content/tools/module/AncientTomesModule
+[12:04:58] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:04:58] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:04:58] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[12:04:59] [pool-3-thread-1/INFO]: Bypassed Mojang DFU
+[12:04:59] [pool-3-thread-1/INFO]: Patching FishingHook#catchingFish
+[12:05:00] [pool-3-thread-1/WARN]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by com.abdelaziz.saturn.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[12:05:00] [pool-3-thread-1/INFO]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[12:05:00] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[12:05:00] [pool-3-thread-1/INFO]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[12:05:01] [Render thread/WARN]: Method overwrite conflict for m_85995_ in mixins.oculus.vertexformat.json:block_rendering.MixinBufferBuilder_SeparateAo, previously written by me.jellysquid.mods.sodium.mixin.features.buffer_builder.intrinsics.MixinBufferBuilder. Skipping method.
+[12:05:01] [Render thread/WARN]: Assets URL 'union:/C:/Users/rodne/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23865!/assets/.mcassetsroot' uses unexpected schema
+[12:05:01] [Render thread/WARN]: Assets URL 'union:/C:/Users/rodne/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23865!/data/.mcassetsroot' uses unexpected schema
+[12:05:01] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:05:02] [Render thread/INFO]: Setting user: Thefive6000
+[12:05:02] [Render thread/INFO]: Mixing client.MixinToastComponent from nochatreports.mixins.json into net.minecraft.client.gui.components.toasts.ToastComponent
+[12:05:02] [Render thread/INFO]: Mixing client.MixinOptions from nochatreports.mixins.json into net.minecraft.client.Options
+[12:05:02] [Render thread/INFO]: Renaming synthetic method lambda$onlyShowSecureChat$1(Ljava/lang/Boolean;)V to mdef2327$lambda$onlyShowSecureChat$1$0 in nochatreports.mixins.json:client.MixinOptions
+[12:05:02] [Render thread/INFO]: Renaming synthetic method lambda$onlyShowSecureChat$0(Lnet/minecraft/network/chat/Component;Ljava/lang/Boolean;)Lnet/minecraft/network/chat/Component; to mdef2327$lambda$onlyShowSecureChat$0$1 in nochatreports.mixins.json:client.MixinOptions
+[12:05:02] [Render thread/INFO]: Mixing client.MixinChatComponent from nochatreports.mixins.json into net.minecraft.client.gui.components.ChatComponent
+[12:05:02] [Render thread/INFO]: Renaming synthetic method lambda$modifyGUIMessage$1()V to mdef2327$lambda$modifyGUIMessage$1$0 in nochatreports.mixins.json:client.MixinChatComponent
+[12:05:02] [Render thread/INFO]: Renaming synthetic method lambda$modifyGUIMessage$0(Lnet/minecraft/network/chat/FormattedText;Lnet/minecraft/network/chat/Component;)V to mdef2327$lambda$modifyGUIMessage$0$1 in nochatreports.mixins.json:client.MixinChatComponent
+[12:05:02] [Render thread/INFO]: Mixing client.MixinGuiMessageTagIcon from nochatreports.mixins.json into net.minecraft.client.GuiMessageTag$Icon
+[12:05:02] [Render thread/INFO]: Renaming @Invoker method create(Ljava/lang/String;IIIII)Lnet/minecraft/client/GuiMessageTag$Icon; to create_$md$ef2327$0 in nochatreports.mixins.json:client.MixinGuiMessageTagIcon
+[12:05:02] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[12:05:02] [Render thread/INFO]: Loaded client.properties
+[12:05:02] [Render thread/ERROR]: Quartz OpenGL version search enabled, this may potentially cause issues with some graphics cards, please report issues
+[12:05:02] [Render thread/INFO]: Searching for latest OpenGL version
+[12:05:02] [Render thread/INFO]: Attempting version 4.6 
